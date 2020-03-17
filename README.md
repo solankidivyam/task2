@@ -7,7 +7,7 @@ Then you arrive at a Page where you can get started 🔥
 
 You have to add the tasks you want to do today 🔥
 
-You can delete add at your will
+You can delete / add at your will
 
 This is a website with backend support 🔥🔥
 You can rely on it; So, I suggest to make your own page 
